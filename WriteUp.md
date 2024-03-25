@@ -36,8 +36,8 @@
 
 
 sources:
-https://sci-hub.ru/10.1103/PhysRevA.60.2746
-https://www.youtube.com/watch?v=30U2DTfIrOU
-https://www.youtube.com/watch?v=c30KrWjHaw4
-https://chat.openai.com/
-https://gemini.google.com
+- https://sci-hub.ru/10.1103/PhysRevA.60.2746
+- https://www.youtube.com/watch?v=30U2DTfIrOU
+- https://www.youtube.com/watch?v=c30KrWjHaw4
+- https://chat.openai.com/
+- https://gemini.google.com
