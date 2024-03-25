@@ -17,9 +17,13 @@
 
 **LOGIC:**
 - We encode each of the inputted values into a 3 digit binary number
-- we apply X gates to the qubits correspoding to the 1 bits in each binary representation
 - We use controlled-NOT gates to implement the binary addition logic. The target qubit is the qubit where the result will be stored (qubit 3 in our case), and the control qubits are the qubits representing the bits of the numbers to be added.
 - we apply the same logic but with toffoli gates to take account the carry of the circuit
+
+**_Circuit diagram:_**
+
+![Screenshot 2024-03-25 123800](https://github.com/AasaSingh05/ACM-Quantum-Computing-Task/assets/158080819/e88a81b5-004b-4255-9771-d8616a0e922c)
+
 
 **Logic table of the circuit:**
 
