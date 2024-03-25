@@ -12,8 +12,8 @@
 
 **FORMULA FOR THE CIRCUIT:** 
 
--> **_SUM = X (xor) Y (xor) Z_**
--> **_CARRY = XY (xor) YZ (xor) XZ_**
+- **_SUM = X (xor) Y (xor) Z_**
+- **_CARRY = XY (xor) YZ (xor) XZ_**
 
 **LOGIC:**
 - We encode each of the inputted values into a 3 digit binary number
