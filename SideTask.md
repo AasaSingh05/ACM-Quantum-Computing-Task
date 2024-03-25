@@ -22,7 +22,7 @@
 - The mean of value of all the amplitudes is found, and we take the difference of all the amplitude with the mean
 - We flip the amplitudes of all the bits with respect to the mean thus amplifying the value of the searched element and decreasing the amplitude of others
 
-  **4) Final Step**
+**4) Final Step**
   - The Steps 2 And 3 are done repeatedly until the probability of the searched element is as close to 1 as possible.
   - Overusing of the steps 2 and 3 will cause all the values of the system to be back to the original of all amplitudes being of same probability.
   - The Step 2 and 3 together is what The Grover's Diffusion Operator does.
