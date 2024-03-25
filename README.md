@@ -1,5 +1,7 @@
 # Making a quantum circuit that adds three qubits together
 ## (i assumed this is like a full adder circuit for three qubits)
+### By Aasa Singh Bhui ( 23BBS0025 )
+
 
 **Documentation of my process:**
 - Started by reading up about qubits and their represenation in a matricular form
